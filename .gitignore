@@ -1,6 +1,10 @@
 #Adding the config.py file
 config.py
 
+# Enter your API key
+gkey = AIzaSyBedU_YyoAEoaSgn8UmawFyUla0dxX1S38
+
+
 #Adding additional files
 API_Practice.ipynb
 
